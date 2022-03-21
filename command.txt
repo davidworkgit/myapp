@@ -1,0 +1,6 @@
+ng new my-first-project
+ng g module XXX
+ng g interface XXX
+ng g c components/upload-form
+ng g class xxx
+ng g service xxxx

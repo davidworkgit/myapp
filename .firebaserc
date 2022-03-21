@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-project-angular-b88fe": {
+      "hosting": {
+        "myapp": [
+          "my-project-angular-b88fe"
+        ]
+      }
+    }
+  }
+}
